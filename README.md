@@ -12,7 +12,7 @@ Soy un desarrollador apasionado con experiencia en desarrollo web y móvil. Me e
 * Ocupación: Estudiante de Ingeniería en Computación - ESPOL
 * Sitio web: [Mi Curriculum](https://julioguerrero131.github.io/curriculum/)
 ## Proyectos
-- [Proyecto 1](https://github.com/julioguerrero131/landing-page-proyect): Landing Page with Furni Template.
+- [Proyecto 1](https://julioguerrero131.github.io/landing-page-proyect/): Landing Page with Furni Template.
 - [Proyecto 2](https://julioguerrero131.github.io/dashboard_dawm/): Dashboard con React y TypeScript.
 - [Proyecto 3](https://julioguerrero131.github.io/pagina_web_responsive_basica-HTML_CSS/): Página Web Responsiva Básica con HTML y CSS.
 ## Intereses
