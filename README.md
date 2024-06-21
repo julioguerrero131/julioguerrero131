@@ -1,16 +1,16 @@
-# Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+# Julio Guerrero
+## Desarrollador Full Stack | Estudiante de ESPOL
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 Soy un desarrollador apasionado con experiencia en desarrollo web y móvil. Me encanta aprender nuevas tecnologías y contribuir a proyectos de código abierto.
+## Información personal
+* Nombre: Julio Guerrero
+* Ocupación: Estudiante de la carrera de Ingeniería en Computación - ESPOL
+* Sitio web: [Mi Curriculum](https://julioguerrero131.github.io/curriculum/)
 ## Habilidades
 - **Lenguajes de programación**: JavaScript, Python, Java
 - **Frameworks**: React, NodeJS
 - **Bases de datos**: MySQL
 - **Otros**: Git, GitHub, Notion
-## Información personal
-* Nombre: Julio Guerrero
-* Ocupación: Estudiante de Ingeniería en Computación - ESPOL
-* Sitio web: [Mi Curriculum](https://julioguerrero131.github.io/curriculum/)
 ## Proyectos
 - [Proyecto 1](https://julioguerrero131.github.io/landing-page-proyect/): Landing Page with Furni Template.
 - [Proyecto 2](https://julioguerrero131.github.io/dashboard_dawm/): Dashboard con React y TypeScript.
