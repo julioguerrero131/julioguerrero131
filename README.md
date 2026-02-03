@@ -14,8 +14,6 @@ Soy un desarrollador apasionado con experiencia en desarrollo web y móvil. Me e
 ## Proyectos
 - [Game Store Landing Page](https://julioguerrero131.github.io/landing-page-proyect/): Landing Page with Furni Template.
 - [Time Dashboard](https://julioguerrero131.github.io/dashboard_dawm/): Dashboard con React y TypeScript.
-## Estadísticas GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=julioguerrero131&show_icons=true&theme=radical)
 ## Intereses
 - **Desarrollo Web y Móvil**: Disfruto construyendo interfaces de usuario intuitivas y responsivas tanto para la web como para dispositivos móviles.
 - **Contribuciones a Código Abierto**: Valoro la comunidad de código abierto y disfruto colaborar en proyectos que tienen un impacto positivo.
