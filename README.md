@@ -1,28 +1,37 @@
 # ¡Hola! Soy Julio Guerrero
 
-### 👨‍💻 Egresado en Ingeniería en Computación @ ESPOL | Backend, Data & Cybersecurity
+### 👨‍💻 Egresado en Ingeniería en Computación @ ESPOL | Backend & Data 
 
-Soy un profesional enfocado en el diseño de arquitecturas, servicios backend y la automatización de procesos. Especializado en la creación de APIs RESTful robustas y asíncronas (principalmente con FastAPI y Python), integro mi interés por el análisis de datos y la ciberseguridad para construir sistemas seguros que optimizan operaciones empresariales. 
+Soy un profesional enfocado en el diseño de arquitecturas, servicios backend y la automatización de procesos. Especializado en la creación de APIs RESTful robustas y asíncronas, integro mi interés por el análisis de datos y la ciberseguridad para construir sistemas seguros que optimizan operaciones empresariales. 
 
-- 🚀 **En qué estoy trabajando:** Desarrollo de **Coffee BI**, una plataforma full-stack con FastAPI, Angular y despliegue contenedorizado con Docker.
+- 🚀 **En qué estoy trabajando:** Desarrollo de una API RESTful full-stack en Java con Spring Boot, Spring Data JPA y MySQL/PostgreSQL, basada en una prueba técnica real para el control de ventas, sucursales y productos.
 - 💡 **Intereses principales:** Backend Architecture, Data Engineering & Analytics, y Cloud Security.
 - 📫 **Contáctame:** [LinkedIn](https://linkedin.com/in/julio-daniel-guerrero)
 
 ---
 
-### 🛠️️ Stack Tecnológico y Herramientas
+### 🛠 Stack Tecnológico y Herramientas
 
 **Backend & Arquitectura**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Data Science, IA & Bases de Datos**  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -34,7 +43,6 @@ Soy un profesional enfocado en el diseño de arquitecturas, servicios backend y 
 **Frontend (Client-Side Logic)**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 ### 📂 Proyectos Destacados
@@ -57,8 +65,9 @@ Sistema de recomendación basado en Machine Learning.
 ---
 ### 📜 Certificaciones
 
-- 🛡️ **AWS Academy Graduate:** Cloud Security Foundations
 - ☁️ **AWS Academy Graduate:** AWS Cloud Foundations
+- 🛡️ **AWS Academy Graduate:** Cloud Security Foundations
+- 🛡️ **AWS Academy Graduate:** Data Engineering
 - 🌐 **Cisco Networking Academy:** Cisco Certified Network Associate (CCNA)
 
 ---
